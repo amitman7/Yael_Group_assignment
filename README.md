@@ -3,7 +3,8 @@
 
 # Gregorian to Hebrew Date Converter
 
-This service allows you to input a Gregorian date and converts it into the corresponding Hebrew date using the [Hebrew Date Converter REST API]([https://www.hebcal.com/home/197/hebcal-rest-api](https://www.hebcal.com/home/219/hebrew-date-converter-rest-api)).
+his service allows you to input a Gregorian date and converts it into the corresponding Hebrew date using the [Hebrew Date Converter REST API](https://www.hebcal.com/home/219/hebrew-date-converter-rest-api).
+
 
 ## Features
 
